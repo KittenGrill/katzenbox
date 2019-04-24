@@ -1,3 +1,3 @@
 # Katzenbox
-# Diese Box hat das Design einer Katze
-# Für Katzenliebhaber
+Diese Box hat das Design einer Katze
+Für Katzenliebhaber
